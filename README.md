@@ -13,11 +13,11 @@ This guide provides a detailed process for installing Jenkins on Kali Linux. It 
 ### 2. [Docker Installation Guide](./docker-installation-guide/docker-installation-guide.md)
 Learn how to install Docker on Kali Linux. This guide walks you through the steps of installing Docker, setting up Docker CE, and managing Docker permissions.
 
-### 3. [Main Docker Commands](./main-docker-commands.md)
+### 3. [Docker Commands](./Docker/)
 This section includes the most frequently used Docker commands for managing containers, images, and networks. Whether you're new to Docker or an experienced user, these commands will help streamline your workflow.
 
 ## Getting Started
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/DevOps-guide.git
+   git clone https://github.com/aayishajalal/DevOps-guide.git
