@@ -7,10 +7,10 @@ The goal of this repository is to help developers and system administrators quic
 
 ## Guides Available
 
-### 1. [Jenkins Installation Guide](./jenkins-installation-guide.md)
+### 1. [Jenkins Installation Guide](./jenkins-installation-guide/jenkins-installation-guide.md)
 This guide provides a detailed process for installing Jenkins on Kali Linux. It covers everything from setting up dependencies to configuring Jenkins with the appropriate environment variables.
 
-### 2. [Docker Installation Guide](./docker-installation-guide.md)
+### 2. [Docker Installation Guide](./docker-installation-guide/docker-installation-guide.md)
 Learn how to install Docker on Kali Linux. This guide walks you through the steps of installing Docker, setting up Docker CE, and managing Docker permissions.
 
 ### 3. [Main Docker Commands](./main-docker-commands.md)
